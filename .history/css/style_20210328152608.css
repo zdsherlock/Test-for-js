@@ -1,0 +1,21 @@
+body    {
+    margin:  0;
+    padding:  0;
+}
+
+header  {
+    background-color:  red;
+    color:  white;
+    padding:  20px;
+    text-align:  center;
+}
+
+section {
+    background-color: yellow;
+    padding:  20px;
+    text-align:  20px;
+}
+
+footer  {
+    background-color: green;
+}

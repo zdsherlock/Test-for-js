@@ -1,0 +1,15 @@
+body    {
+    margin:  0;
+}
+
+header  {
+    background-color:  red;
+}
+
+section {
+    background-color: yellow;
+}
+
+footer  {
+    background-color: green;
+}
